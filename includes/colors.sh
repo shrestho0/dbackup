@@ -1,0 +1,8 @@
+
+export STATUS_COLOR_RED='\033[0;31m'
+export STATUS_COLOR_OK='\033[0;32m'
+export STATUS_COLOR_DIR='\033[0;33m'
+export STATUS_COLOR_DO='\033[1;36m'
+export STATUS_COLOR_FW='\033[1;30m'
+export STATUS_COLOR_UP='\033[0;33m'
+export STATUS_COLOR_END='\033[0m'
