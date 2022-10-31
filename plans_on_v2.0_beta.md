@@ -1,5 +1,4 @@
-d-backup
-v0.2 beta
+## d-backup v0.2-beta
 
 languages: bash, python3.11, ~
 
@@ -9,3 +8,4 @@ action_script
 
 includes/do_something.py
 
+.env will include all data of credentials and s3 link stuff
