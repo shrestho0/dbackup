@@ -1,0 +1,11 @@
+d-backup
+v0.2 beta
+
+languages: bash, python3.11, ~
+
+installer --> libs installer, main installer
+
+action_script 
+
+includes/do_something.py
+
